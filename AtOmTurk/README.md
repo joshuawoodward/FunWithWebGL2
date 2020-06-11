@@ -7,8 +7,8 @@ https://www.youtube.com/playlist?list=PLMinhigDWz6emRKVkVIEAaePW7vtIkaIF
 This is the code repository for all the lessons of my youtube series. This hopefully make it easier for users to learn by downloading the specific lesson source to play around with to get a better understanding of how it works.
 
 ### SketchpunkLab Links
-* [SketchPunk Labs Blog](http://sketchpunklabs.tumblr.com/)
-* [Support SketchPunk Labs @ Patreon](https://www.patreon.com/sketchpunk)
+* [SketchPunk Labs Blog](http://atomxplus.com)
+* [Support SketchPunk Labs @ Patreon](https://www.patreon.com/AtOmXpLuS)
 
 ### References
 * [WebGL on Reddit](https://www.reddit.com/r/webgl/)
